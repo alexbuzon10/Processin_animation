@@ -4,3 +4,6 @@ Aquí está mi animación final en processing
 if (a == b){
   print("Hello World");
 }
+```
+# Créditos
+sjdfksahdfjsad fkasdhfsadjkf
